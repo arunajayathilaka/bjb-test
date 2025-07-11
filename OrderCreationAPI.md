@@ -65,7 +65,8 @@ POST /api/orders
   "status": "INITIATED",
   "totalAmount": 150.00,
   "createdAt": "2024-07-11T10:30:00Z",
-  "message": "Order created successfully."
+  "paymentTokenRef":"SDEFEVVCD2345"
+  "message": "Order initiated successfully."
 }
 ```
 
