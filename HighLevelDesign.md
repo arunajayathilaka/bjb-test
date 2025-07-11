@@ -27,12 +27,12 @@
 
 #### Order Creation Flow
 
-![image](\images\order-creation-flow.png)
+![image](/images/order-creation-flow.png)
 
 
 #### Payment Flow
 
-![image](\images\payment-flow.png)
+![image](/images/payment-flow.png)
 
 
 #### Retrieve Product Flow
@@ -49,4 +49,4 @@ This **event-driven mechanism** ensures that:
 
 The primary database is **protected from read-heavy traffic**, improving overall **system scalability** and performance.
 
-![image](\images\retrieve-product-flow.png)
+![image](/images/retrieve-product-flow.png)
