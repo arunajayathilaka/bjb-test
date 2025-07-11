@@ -1,7 +1,7 @@
 # High Level Design
 
 
-![image](\images\highlevel-architecture.png)
+![image](/images/highlevel-architecture.png)
 
 
 #### High-Level Design Summary (Microservices)
